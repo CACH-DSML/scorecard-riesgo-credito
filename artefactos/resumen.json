@@ -1,0 +1,41 @@
+{
+  "variables": [
+    "calificacion",
+    "plazo",
+    "proposito",
+    "ingreso_anual",
+    "estado"
+  ],
+  "oot": {
+    "auc": 0.6909295050096044,
+    "gini": 0.38185901001920874,
+    "ks": 0.2908834697592017,
+    "brier": 0.12447759492586447,
+    "auc_ic_inferior": 0.6782249295217634,
+    "auc_ic_superior": 0.70512437999792,
+    "tasa_observada": 0.15703320077684269,
+    "pd_promedio": 0.1457759036848562
+  },
+  "error_calibracion_oot": 0.012601629347770194,
+  "hosmer_lemeshow_oot": {
+    "estadistico": 23.960687068958006,
+    "p_valor": 0.0023268315825116293
+  },
+  "psi_puntaje_oot": 0.04215787660773851,
+  "recalibracion": {
+    "desplazamiento_intercepto": 0.03156975700600406,
+    "tasa_observada_estimacion": 0.15579550462758926,
+    "tasa_observada_evaluacion": 0.15792828685258964,
+    "pd_promedio_antes": 0.14130500976043864,
+    "pd_promedio_despues": 0.14494776145206026,
+    "error_calibracion_antes": 0.01800797599771137,
+    "error_calibracion_despues": 0.015100811887593718,
+    "hosmer_lemeshow_p_antes": 0.0014326824913752346,
+    "hosmer_lemeshow_p_despues": 0.015484510789444772
+  },
+  "puntaje_oot": {
+    "minimo": 472,
+    "mediana": 543.0,
+    "maximo": 589
+  }
+}

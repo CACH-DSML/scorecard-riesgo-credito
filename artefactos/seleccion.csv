@@ -1,0 +1,12 @@
+variable,motivo
+antiguedad_laboral,IV 0.017 menor que 0.02
+quiebras,IV 0.013 menor que 0.02
+verificacion_ingreso,IV 0.013 menor que 0.02
+monto,IV 0.012 menor que 0.02
+dti,IV 0.009 menor que 0.02
+cuota,IV 0.007 menor que 0.02
+vivienda,IV 0.003 menor que 0.02
+moras_2_anios,IV 0.001 menor que 0.02
+cuota_ingreso,"correlación 0.87 con monto_ingreso, que tiene más IV"
+uso_linea_revolvente,signo contrario al esperado
+monto_ingreso,p-valor 0.378 mayor que 0.05

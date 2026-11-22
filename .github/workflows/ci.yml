@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  calidad:
+    name: Lint, pruebas y reproducibilidad
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar el proyecto
+        run: python -m pip install -e ".[dev,app]"
+
+      - name: Lint
+        run: |
+          python -m ruff format --check .
+          python -m ruff check .
+
+      - name: Pruebas
+        run: python -m pytest -q
+
+      # Reentrena y comprueba que la tabla de puntos publicada no cambia.
+      - name: Reproducibilidad de la tabla de puntos
+        run: |
+          python -m scorecard.pipeline
+          git diff --exit-code artefactos/tabla_puntos.csv artefactos/scorecard.json

@@ -1,0 +1,405 @@
+fpr,tpr,modelo
+0.0,0.0,Scorecard (logístico sobre WoE)
+0.01,0.037735571260306244,Scorecard (logístico sobre WoE)
+0.02,0.06487043580683158,Scorecard (logístico sobre WoE)
+0.03,0.08893698468786808,Scorecard (logístico sobre WoE)
+0.04,0.12113799039594093,Scorecard (logístico sobre WoE)
+0.05,0.1432567726737338,Scorecard (logístico sobre WoE)
+0.06,0.1641931684334511,Scorecard (logístico sobre WoE)
+0.07,0.19260895170789172,Scorecard (logístico sobre WoE)
+0.08,0.2120583038869258,Scorecard (logístico sobre WoE)
+0.09,0.23155182567726737,Scorecard (logístico sobre WoE)
+0.1,0.25506478209658423,Scorecard (logístico sobre WoE)
+0.11,0.270906949352179,Scorecard (logístico sobre WoE)
+0.12,0.29552414605418137,Scorecard (logístico sobre WoE)
+0.13,0.31205418138987046,Scorecard (logístico sobre WoE)
+0.14,0.3392226148409894,Scorecard (logístico sobre WoE)
+0.15,0.36047310561444834,Scorecard (logístico sobre WoE)
+0.16,0.38234455396441636,Scorecard (logístico sobre WoE)
+0.17,0.3964296230859835,Scorecard (logístico sobre WoE)
+0.18,0.41265459363957596,Scorecard (logístico sobre WoE)
+0.19,0.4256866902237927,Scorecard (logístico sobre WoE)
+0.2,0.44342363564978404,Scorecard (logístico sobre WoE)
+0.21,0.45768283542135135,Scorecard (logístico sobre WoE)
+0.22,0.4711425206124853,Scorecard (logístico sobre WoE)
+0.23,0.4848203769140165,Scorecard (logístico sobre WoE)
+0.24,0.5005889281507656,Scorecard (logístico sobre WoE)
+0.25,0.5129564193168433,Scorecard (logístico sobre WoE)
+0.26,0.5241460541813898,Scorecard (logístico sobre WoE)
+0.27,0.5336376128778956,Scorecard (logístico sobre WoE)
+0.28,0.5482921083627798,Scorecard (logístico sobre WoE)
+0.29,0.5681213191990577,Scorecard (logístico sobre WoE)
+0.3,0.582449941107185,Scorecard (logístico sobre WoE)
+0.31,0.5952002355712602,Scorecard (logístico sobre WoE)
+0.32,0.607773851590106,Scorecard (logístico sobre WoE)
+0.33,0.6151914016489989,Scorecard (logístico sobre WoE)
+0.34,0.6275103062426385,Scorecard (logístico sobre WoE)
+0.35000000000000003,0.6379564193168433,Scorecard (logístico sobre WoE)
+0.36,0.6466484634329158,Scorecard (logístico sobre WoE)
+0.37,0.659707499018453,Scorecard (logístico sobre WoE)
+0.38,0.6702002355712603,Scorecard (logístico sobre WoE)
+0.39,0.6778563015312132,Scorecard (logístico sobre WoE)
+0.4,0.6858804475853946,Scorecard (logístico sobre WoE)
+0.41000000000000003,0.6937295511058762,Scorecard (logístico sobre WoE)
+0.42,0.702002355712603,Scorecard (logístico sobre WoE)
+0.43,0.7097341410062259,Scorecard (logístico sobre WoE)
+0.44,0.7214369846878681,Scorecard (logístico sobre WoE)
+0.45,0.7254543160020193,Scorecard (logístico sobre WoE)
+0.46,0.7326266195524146,Scorecard (logístico sobre WoE)
+0.47000000000000003,0.7395661562622694,Scorecard (logístico sobre WoE)
+0.48,0.7503415783274441,Scorecard (logístico sobre WoE)
+0.49,0.7579505300353356,Scorecard (logístico sobre WoE)
+0.5,0.7697290930506479,Scorecard (logístico sobre WoE)
+0.51,0.7765985192663637,Scorecard (logístico sobre WoE)
+0.52,0.7839986472145448,Scorecard (logístico sobre WoE)
+0.53,0.7944640753828033,Scorecard (logístico sobre WoE)
+0.54,0.800942285041225,Scorecard (logístico sobre WoE)
+0.55,0.8103651354534747,Scorecard (logístico sobre WoE)
+0.56,0.8138987043580683,Scorecard (logístico sobre WoE)
+0.5700000000000001,0.8180778926279405,Scorecard (logístico sobre WoE)
+0.58,0.821623478602277,Scorecard (logístico sobre WoE)
+0.59,0.8268551236749117,Scorecard (logístico sobre WoE)
+0.6,0.8321554770318021,Scorecard (logístico sobre WoE)
+0.61,0.8392226148409894,Scorecard (logístico sobre WoE)
+0.62,0.8445229681978799,Scorecard (logístico sobre WoE)
+0.63,0.848698468786808,Scorecard (logístico sobre WoE)
+0.64,0.8568904593639576,Scorecard (logístico sobre WoE)
+0.65,0.8608229795964892,Scorecard (logístico sobre WoE)
+0.66,0.8704358068315665,Scorecard (logístico sobre WoE)
+0.67,0.8754102866117001,Scorecard (logístico sobre WoE)
+0.68,0.884452296819788,Scorecard (logístico sobre WoE)
+0.6900000000000001,0.889281507656066,Scorecard (logístico sobre WoE)
+0.7000000000000001,0.8907201749957934,Scorecard (logístico sobre WoE)
+0.71,0.8962945711532284,Scorecard (logístico sobre WoE)
+0.72,0.9004711425206124,Scorecard (logístico sobre WoE)
+0.73,0.9087783012694673,Scorecard (logístico sobre WoE)
+0.74,0.914605418138987,Scorecard (logístico sobre WoE)
+0.75,0.9215253239104829,Scorecard (logístico sobre WoE)
+0.76,0.9269729093050648,Scorecard (logístico sobre WoE)
+0.77,0.9328621908127208,Scorecard (logístico sobre WoE)
+0.78,0.9352179034157833,Scorecard (logístico sobre WoE)
+0.79,0.9424404528203115,Scorecard (logístico sobre WoE)
+0.8,0.9452296819787986,Scorecard (logístico sobre WoE)
+0.81,0.9487632508833922,Scorecard (logístico sobre WoE)
+0.8200000000000001,0.9522968197879859,Scorecard (logístico sobre WoE)
+0.8300000000000001,0.9558303886925795,Scorecard (logístico sobre WoE)
+0.84,0.9595707672501164,Scorecard (logístico sobre WoE)
+0.85,0.9646643109540636,Scorecard (logístico sobre WoE)
+0.86,0.9672181899213701,Scorecard (logístico sobre WoE)
+0.87,0.9698130698425163,Scorecard (logístico sobre WoE)
+0.88,0.9720974707752321,Scorecard (logístico sobre WoE)
+0.89,0.9752650176678446,Scorecard (logístico sobre WoE)
+0.9,0.9780918727915194,Scorecard (logístico sobre WoE)
+0.91,0.9823695297635227,Scorecard (logístico sobre WoE)
+0.92,0.9861501335861416,Scorecard (logístico sobre WoE)
+0.93,0.9864546525323911,Scorecard (logístico sobre WoE)
+0.9400000000000001,0.9873542402826856,Scorecard (logístico sobre WoE)
+0.9500000000000001,0.9882214369846879,Scorecard (logístico sobre WoE)
+0.96,0.9903415783274441,Scorecard (logístico sobre WoE)
+0.97,0.9963514234282285,Scorecard (logístico sobre WoE)
+0.98,0.9982332155477032,Scorecard (logístico sobre WoE)
+0.99,0.9988221436984688,Scorecard (logístico sobre WoE)
+1.0,1.0,Scorecard (logístico sobre WoE)
+0.0,0.0,Benchmark: calificación de LendingClub
+0.01,0.030843310322891664,Benchmark: calificación de LendingClub
+0.02,0.05824996396853086,Benchmark: calificación de LendingClub
+0.03,0.08565661761417007,Benchmark: calificación de LendingClub
+0.04,0.10862125376259651,Benchmark: calificación de LendingClub
+0.05,0.12976026197679702,Benchmark: calificación de LendingClub
+0.06,0.1508992701909975,Benchmark: calificación de LendingClub
+0.07,0.172038278405198,Benchmark: calificación de LendingClub
+0.08,0.19317728661939848,Benchmark: calificación de LendingClub
+0.09,0.21431629483359896,Benchmark: calificación de LendingClub
+0.1,0.2354553030477995,Benchmark: calificación de LendingClub
+0.11,0.25129329162209185,Benchmark: calificación de LendingClub
+0.12,0.2671020412573886,Benchmark: calificación de LendingClub
+0.13,0.28291079089268545,Benchmark: calificación de LendingClub
+0.14,0.2987195405279822,Benchmark: calificación de LendingClub
+0.15,0.314528290163279,Benchmark: calificación de LendingClub
+0.16,0.33033703979857576,Benchmark: calificación de LendingClub
+0.17,0.3461457894338726,Benchmark: calificación de LendingClub
+0.18,0.3619545390691693,Benchmark: calificación de LendingClub
+0.19,0.3777632887044661,Benchmark: calificación de LendingClub
+0.2,0.39357203833976295,Benchmark: calificación de LendingClub
+0.21,0.4093807879750597,Benchmark: calificación de LendingClub
+0.22,0.4250645598595462,Benchmark: calificación de LendingClub
+0.23,0.43742127252927976,Benchmark: calificación de LendingClub
+0.24,0.44977798519901324,Benchmark: calificación de LendingClub
+0.25,0.46213469786874684,Benchmark: calificación de LendingClub
+0.26,0.4744914105384804,Benchmark: calificación de LendingClub
+0.27,0.4868481232082139,Benchmark: calificación de LendingClub
+0.28,0.49920483587794745,Benchmark: calificación de LendingClub
+0.29,0.511561548547681,Benchmark: calificación de LendingClub
+0.3,0.5239182612174145,Benchmark: calificación de LendingClub
+0.31,0.5362749738871481,Benchmark: calificación de LendingClub
+0.32,0.5486316865568815,Benchmark: calificación de LendingClub
+0.33,0.5609883992266151,Benchmark: calificación de LendingClub
+0.34,0.5733451118963486,Benchmark: calificación de LendingClub
+0.35000000000000003,0.5857018245660822,Benchmark: calificación de LendingClub
+0.36,0.5980585372358157,Benchmark: calificación de LendingClub
+0.37,0.6104152499055493,Benchmark: calificación de LendingClub
+0.38,0.6227719625752828,Benchmark: calificación de LendingClub
+0.39,0.6351286752450164,Benchmark: calificación de LendingClub
+0.4,0.6447944616316975,Benchmark: calificación de LendingClub
+0.41000000000000003,0.6526089903995751,Benchmark: calificación de LendingClub
+0.42,0.6604235191674527,Benchmark: calificación de LendingClub
+0.43,0.6682380479353303,Benchmark: calificación de LendingClub
+0.44,0.6760525767032078,Benchmark: calificación de LendingClub
+0.45,0.6838671054710855,Benchmark: calificación de LendingClub
+0.46,0.6916816342389631,Benchmark: calificación de LendingClub
+0.47000000000000003,0.6994961630068407,Benchmark: calificación de LendingClub
+0.48,0.7073106917747183,Benchmark: calificación de LendingClub
+0.49,0.7151252205425959,Benchmark: calificación de LendingClub
+0.5,0.7229397493104734,Benchmark: calificación de LendingClub
+0.51,0.730754278078351,Benchmark: calificación de LendingClub
+0.52,0.7385688068462286,Benchmark: calificación de LendingClub
+0.53,0.7463833356141063,Benchmark: calificación de LendingClub
+0.54,0.7541978643819839,Benchmark: calificación de LendingClub
+0.55,0.7620123931498615,Benchmark: calificación de LendingClub
+0.56,0.769826921917739,Benchmark: calificación de LendingClub
+0.5700000000000001,0.7776414506856166,Benchmark: calificación de LendingClub
+0.58,0.7854559794534941,Benchmark: calificación de LendingClub
+0.59,0.7932705082213718,Benchmark: calificación de LendingClub
+0.6,0.8010850369892494,Benchmark: calificación de LendingClub
+0.61,0.808899565757127,Benchmark: calificación de LendingClub
+0.62,0.8167140945250045,Benchmark: calificación de LendingClub
+0.63,0.8245286232928821,Benchmark: calificación de LendingClub
+0.64,0.8323431520607598,Benchmark: calificación de LendingClub
+0.65,0.8401576808286374,Benchmark: calificación de LendingClub
+0.66,0.847972209596515,Benchmark: calificación de LendingClub
+0.67,0.8557867383643926,Benchmark: calificación de LendingClub
+0.68,0.8636012671322701,Benchmark: calificación de LendingClub
+0.6900000000000001,0.8714157959001477,Benchmark: calificación de LendingClub
+0.7000000000000001,0.8792303246680253,Benchmark: calificación de LendingClub
+0.71,0.8870448534359029,Benchmark: calificación de LendingClub
+0.72,0.8914550129179185,Benchmark: calificación de LendingClub
+0.73,0.8953316195994214,Benchmark: calificación de LendingClub
+0.74,0.8992082262809243,Benchmark: calificación de LendingClub
+0.75,0.9030848329624273,Benchmark: calificación de LendingClub
+0.76,0.9069614396439302,Benchmark: calificación de LendingClub
+0.77,0.9108380463254331,Benchmark: calificación de LendingClub
+0.78,0.914714653006936,Benchmark: calificación de LendingClub
+0.79,0.9185912596884389,Benchmark: calificación de LendingClub
+0.8,0.9224678663699418,Benchmark: calificación de LendingClub
+0.81,0.9263444730514447,Benchmark: calificación de LendingClub
+0.8200000000000001,0.9302210797329477,Benchmark: calificación de LendingClub
+0.8300000000000001,0.9340976864144506,Benchmark: calificación de LendingClub
+0.84,0.9379742930959534,Benchmark: calificación de LendingClub
+0.85,0.9418508997774563,Benchmark: calificación de LendingClub
+0.86,0.9457275064589592,Benchmark: calificación de LendingClub
+0.87,0.9496041131404621,Benchmark: calificación de LendingClub
+0.88,0.953480719821965,Benchmark: calificación de LendingClub
+0.89,0.9573573265034679,Benchmark: calificación de LendingClub
+0.9,0.9612339331849709,Benchmark: calificación de LendingClub
+0.91,0.9651105398664738,Benchmark: calificación de LendingClub
+0.92,0.9689871465479767,Benchmark: calificación de LendingClub
+0.93,0.9728637532294796,Benchmark: calificación de LendingClub
+0.9400000000000001,0.9767403599109825,Benchmark: calificación de LendingClub
+0.9500000000000001,0.9806169665924854,Benchmark: calificación de LendingClub
+0.96,0.9844935732739883,Benchmark: calificación de LendingClub
+0.97,0.9883701799554913,Benchmark: calificación de LendingClub
+0.98,0.9922467866369942,Benchmark: calificación de LendingClub
+0.99,0.9961233933184971,Benchmark: calificación de LendingClub
+1.0,1.0,Benchmark: calificación de LendingClub
+0.0,0.0,Retador: LightGBM
+0.01,0.028857479387514724,Retador: LightGBM
+0.02,0.05418138987043581,Retador: LightGBM
+0.03,0.07832744405182568,Retador: LightGBM
+0.04,0.10895170789163722,Retador: LightGBM
+0.05,0.143698468786808,Retador: LightGBM
+0.06,0.17491166077738515,Retador: LightGBM
+0.07,0.196113074204947,Retador: LightGBM
+0.08,0.2137809187279152,Retador: LightGBM
+0.09,0.23380447585394581,Retador: LightGBM
+0.1,0.25618374558303886,Retador: LightGBM
+0.11,0.27326266195524146,Retador: LightGBM
+0.12,0.2968197879858657,Retador: LightGBM
+0.13,0.31802120141342755,Retador: LightGBM
+0.14,0.3339222614840989,Retador: LightGBM
+0.15,0.35335689045936397,Retador: LightGBM
+0.16,0.36866902237926974,Retador: LightGBM
+0.17,0.38633686690223795,Retador: LightGBM
+0.18,0.40518256772673733,Retador: LightGBM
+0.19,0.42285041224970554,Retador: LightGBM
+0.2,0.4387514723203769,Retador: LightGBM
+0.21,0.45700824499411075,Retador: LightGBM
+0.22,0.46878680800942285,Retador: LightGBM
+0.23,0.4870435806831567,Retador: LightGBM
+0.24,0.4988221436984688,Retador: LightGBM
+0.25,0.516489988221437,Retador: LightGBM
+0.26,0.5288574793875147,Retador: LightGBM
+0.27,0.5406360424028268,Retador: LightGBM
+0.28,0.5488810365135454,Retador: LightGBM
+0.29,0.552414605418139,Retador: LightGBM
+0.3,0.568904593639576,Retador: LightGBM
+0.31,0.5818610129564193,Retador: LightGBM
+0.32,0.5965842167255595,Retador: LightGBM
+0.33,0.6118963486454653,Retador: LightGBM
+0.34,0.624263839811543,Retador: LightGBM
+0.35000000000000003,0.6372202591283863,Retador: LightGBM
+0.36,0.6454652532391049,Retador: LightGBM
+0.37,0.6560659599528857,Retador: LightGBM
+0.38,0.6643109540636042,Retador: LightGBM
+0.39,0.6731448763250883,Retador: LightGBM
+0.4,0.6837455830388692,Retador: LightGBM
+0.41000000000000003,0.6943462897526502,Retador: LightGBM
+0.42,0.7073027090694936,Retador: LightGBM
+0.43,0.709658421672556,Retador: LightGBM
+0.44,0.7202591283863369,Retador: LightGBM
+0.45,0.7273262661955241,Retador: LightGBM
+0.46,0.734982332155477,Retador: LightGBM
+0.47000000000000003,0.7408716136631331,Retador: LightGBM
+0.48,0.7479387514723204,Retador: LightGBM
+0.49,0.7567726737338045,Retador: LightGBM
+0.5,0.7632508833922261,Retador: LightGBM
+0.51,0.7703180212014135,Retador: LightGBM
+0.52,0.7791519434628975,Retador: LightGBM
+0.53,0.7897526501766784,Retador: LightGBM
+0.54,0.7974087161366313,Retador: LightGBM
+0.55,0.8044758539458187,Retador: LightGBM
+0.56,0.8115429917550059,Retador: LightGBM
+0.5700000000000001,0.8186101295641932,Retador: LightGBM
+0.58,0.8244994110718492,Retador: LightGBM
+0.59,0.8345111896348646,Retador: LightGBM
+0.6,0.8386336866902238,Retador: LightGBM
+0.61,0.8433451118963486,Retador: LightGBM
+0.62,0.850412249705536,Retador: LightGBM
+0.63,0.8580683156654888,Retador: LightGBM
+0.64,0.8621908127208481,Retador: LightGBM
+0.65,0.8651354534746761,Retador: LightGBM
+0.66,0.8716136631330977,Retador: LightGBM
+0.67,0.8786808009422851,Retador: LightGBM
+0.68,0.8839811542991755,Retador: LightGBM
+0.6900000000000001,0.8898704358068316,Retador: LightGBM
+0.7000000000000001,0.8969375736160189,Retador: LightGBM
+0.71,0.9022379269729093,Retador: LightGBM
+0.72,0.9063604240282686,Retador: LightGBM
+0.73,0.9110718492343934,Retador: LightGBM
+0.74,0.9181389870435807,Retador: LightGBM
+0.75,0.9228504122497055,Retador: LightGBM
+0.76,0.928150765606596,Retador: LightGBM
+0.77,0.9346289752650176,Retador: LightGBM
+0.78,0.9399293286219081,Retador: LightGBM
+0.79,0.9434628975265018,Retador: LightGBM
+0.8,0.9487632508833922,Retador: LightGBM
+0.81,0.9522968197879859,Retador: LightGBM
+0.8200000000000001,0.9534746760895171,Retador: LightGBM
+0.8300000000000001,0.9575971731448764,Retador: LightGBM
+0.84,0.9605418138987044,Retador: LightGBM
+0.85,0.9676089517078916,Retador: LightGBM
+0.86,0.9705535924617197,Retador: LightGBM
+0.87,0.9752650176678446,Retador: LightGBM
+0.88,0.9782096584216725,Retador: LightGBM
+0.89,0.980565371024735,Retador: LightGBM
+0.9,0.9829210836277974,Retador: LightGBM
+0.91,0.9864546525323911,Retador: LightGBM
+0.92,0.9882214369846879,Retador: LightGBM
+0.93,0.9917550058892816,Retador: LightGBM
+0.9400000000000001,0.9917550058892816,Retador: LightGBM
+0.9500000000000001,0.9923439340400471,Retador: LightGBM
+0.96,0.9952885747938751,Retador: LightGBM
+0.97,0.997055359246172,Retador: LightGBM
+0.98,0.9982332155477032,Retador: LightGBM
+0.99,0.9988221436984688,Retador: LightGBM
+1.0,1.0,Retador: LightGBM
+0.0,0.0,Retador: red neuronal
+0.01,0.0353356890459364,Retador: red neuronal
+0.02,0.07361601884570082,Retador: red neuronal
+0.03,0.10070671378091872,Retador: red neuronal
+0.04,0.127208480565371,Retador: red neuronal
+0.05,0.160188457008245,Retador: red neuronal
+0.06,0.18315665488810365,Retador: red neuronal
+0.07,0.20318021201413428,Retador: red neuronal
+0.08,0.21967020023557127,Retador: red neuronal
+0.09,0.2326266195524146,Retador: red neuronal
+0.1,0.2479387514723204,Retador: red neuronal
+0.11,0.267962308598351,Retador: red neuronal
+0.12,0.2838633686690224,Retador: red neuronal
+0.13,0.30683156654888105,Retador: red neuronal
+0.14,0.3209658421672556,Retador: red neuronal
+0.15,0.33451118963486454,Retador: red neuronal
+0.16,0.35217903415783275,Retador: red neuronal
+0.17,0.36395759717314485,Retador: red neuronal
+0.18,0.3739693757361602,Retador: red neuronal
+0.19,0.3928150765606596,Retador: red neuronal
+0.2,0.40636042402826855,Retador: red neuronal
+0.21,0.41813898704358066,Retador: red neuronal
+0.22,0.4387514723203769,Retador: red neuronal
+0.23,0.44876325088339225,Retador: red neuronal
+0.24,0.4617196702002356,Retador: red neuronal
+0.25,0.4705535924617197,Retador: red neuronal
+0.26,0.48056537102473496,Retador: red neuronal
+0.27,0.49352179034157834,Retador: red neuronal
+0.28,0.5053003533568905,Retador: red neuronal
+0.29,0.5141342756183745,Retador: red neuronal
+0.3,0.5270906949352179,Retador: red neuronal
+0.31,0.532979976442874,Retador: red neuronal
+0.32,0.5482921083627798,Retador: red neuronal
+0.33,0.5612485276796231,Retador: red neuronal
+0.34,0.574793875147232,Retador: red neuronal
+0.35000000000000003,0.5842167255594818,Retador: red neuronal
+0.36,0.5983510011778563,Retador: red neuronal
+0.37,0.6065959952885748,Retador: red neuronal
+0.38,0.6189634864546525,Retador: red neuronal
+0.39,0.6307420494699647,Retador: red neuronal
+0.4,0.6360424028268551,Retador: red neuronal
+0.41000000000000003,0.6519434628975265,Retador: red neuronal
+0.42,0.6666666666666666,Retador: red neuronal
+0.43,0.6731448763250883,Retador: red neuronal
+0.44,0.6796230859835101,Retador: red neuronal
+0.45,0.6866902237926973,Retador: red neuronal
+0.46,0.6972909305064782,Retador: red neuronal
+0.47000000000000003,0.7084805653710248,Retador: red neuronal
+0.48,0.7208480565371025,Retador: red neuronal
+0.49,0.7332155477031802,Retador: red neuronal
+0.5,0.7444051825677267,Retador: red neuronal
+0.51,0.7497055359246172,Retador: red neuronal
+0.52,0.7561837455830389,Retador: red neuronal
+0.53,0.7632508833922261,Retador: red neuronal
+0.54,0.7709069493521791,Retador: red neuronal
+0.55,0.7785630153121319,Retador: red neuronal
+0.56,0.7856301531213192,Retador: red neuronal
+0.5700000000000001,0.7909305064782096,Retador: red neuronal
+0.58,0.8003533568904594,Retador: red neuronal
+0.59,0.8080094228504122,Retador: red neuronal
+0.6,0.8144876325088339,Retador: red neuronal
+0.61,0.8239104829210836,Retador: red neuronal
+0.62,0.8274440518256773,Retador: red neuronal
+0.63,0.833922261484099,Retador: red neuronal
+0.64,0.8392226148409894,Retador: red neuronal
+0.65,0.8492343934040048,Retador: red neuronal
+0.66,0.8557126030624264,Retador: red neuronal
+0.67,0.8627797408716137,Retador: red neuronal
+0.68,0.8663133097762074,Retador: red neuronal
+0.6900000000000001,0.8739693757361602,Retador: red neuronal
+0.7000000000000001,0.8769140164899882,Retador: red neuronal
+0.71,0.8816254416961131,Retador: red neuronal
+0.72,0.8875147232037691,Retador: red neuronal
+0.73,0.892226148409894,Retador: red neuronal
+0.74,0.8987043580683156,Retador: red neuronal
+0.75,0.9034157832744405,Retador: red neuronal
+0.76,0.9098939929328622,Retador: red neuronal
+0.77,0.9151943462897526,Retador: red neuronal
+0.78,0.9199057714958775,Retador: red neuronal
+0.79,0.9246171967020024,Retador: red neuronal
+0.8,0.928150765606596,Retador: red neuronal
+0.81,0.9293286219081273,Retador: red neuronal
+0.8200000000000001,0.9334511189634864,Retador: red neuronal
+0.8300000000000001,0.9387514723203769,Retador: red neuronal
+0.84,0.9452296819787986,Retador: red neuronal
+0.85,0.9499411071849234,Retador: red neuronal
+0.86,0.9564193168433451,Retador: red neuronal
+0.87,0.9587750294464076,Retador: red neuronal
+0.88,0.9652532391048292,Retador: red neuronal
+0.89,0.967020023557126,Retador: red neuronal
+0.9,0.9723203769140165,Retador: red neuronal
+0.91,0.9752650176678446,Retador: red neuronal
+0.92,0.9782096584216725,Retador: red neuronal
+0.93,0.9811542991755006,Retador: red neuronal
+0.9400000000000001,0.9846878680800942,Retador: red neuronal
+0.9500000000000001,0.9876325088339223,Retador: red neuronal
+0.96,0.9893992932862191,Retador: red neuronal
+0.97,0.9917550058892816,Retador: red neuronal
+0.98,0.9952885747938751,Retador: red neuronal
+0.99,0.9988221436984688,Retador: red neuronal
+1.0,1.0,Retador: red neuronal

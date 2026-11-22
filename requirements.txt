@@ -1,0 +1,6 @@
+# Dependencias del dashboard para Streamlit Community Cloud.
+# La aplicación solo lee artefactos/: no necesita las librerías de entrenamiento.
+altair>=5.4
+numpy>=2.0
+pandas>=2.2
+streamlit>=1.50

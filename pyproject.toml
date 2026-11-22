@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scorecard-riesgo-credito"
+version = "1.0.0"
+description = "Scorecard de riesgo de crédito con validación fuera de tiempo, al estilo de un equipo de validación de modelos."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Crhistian Alexander Collazos Huarcaya" }]
+dependencies = [
+    "lightgbm>=4.5",
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "scikit-learn>=1.5",
+    "scipy>=1.13",
+    "shap>=0.46",
+    "statsmodels>=0.14",
+]
+
+[project.optional-dependencies]
+app = ["altair>=5.4", "streamlit>=1.40"]
+notebooks = ["ipykernel>=6.29", "matplotlib>=3.9", "nbconvert>=7.16"]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

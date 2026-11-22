@@ -1,0 +1,17 @@
+variable,iv,tramos,poder
+calificacion,0.2541050061442454,6,Medio
+plazo,0.07631366102309474,2,Débil
+proposito,0.06700289752447203,9,Débil
+ingreso_anual,0.05264969071928895,6,Débil
+monto_ingreso,0.036288236510048213,6,Débil
+estado,0.03248164928214855,7,Débil
+uso_linea_revolvente,0.027752048321557223,6,Débil
+cuota_ingreso,0.027626176026613283,6,Débil
+antiguedad_laboral,0.016738449344383875,5,Sin poder
+quiebras,0.013093513977604814,2,Sin poder
+verificacion_ingreso,0.01286753092028303,3,Sin poder
+monto,0.011674364390989709,3,Sin poder
+dti,0.009154314429512232,5,Sin poder
+cuota,0.006630257772688314,2,Sin poder
+vivienda,0.0028241461356547626,4,Sin poder
+moras_2_anios,0.0009615292330237204,3,Sin poder

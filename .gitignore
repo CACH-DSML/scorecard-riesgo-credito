@@ -1,0 +1,25 @@
+# Datos de trabajo: solo se publica data/prestamos_lendingclub_2007_2011.csv
+data_raw/
+*.xlsx
+
+# Entorno
+.venv/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Herramientas locales
+graphify-out/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

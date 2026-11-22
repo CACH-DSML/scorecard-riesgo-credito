@@ -1,0 +1,117 @@
+{
+  "escala": {
+    "base": 600,
+    "odds_base": 50,
+    "pdo": 20
+  },
+  "variables": {
+    "calificacion": {
+      "tipo": "categorica",
+      "cortes": [],
+      "grupos": {
+        "B": "B",
+        "C": "C",
+        "A": "A",
+        "D": "D",
+        "E": "E",
+        "F": "OTRAS",
+        "G": "OTRAS"
+      },
+      "puntos": {
+        "A": 133,
+        "B": 110,
+        "C": 108,
+        "D": 97,
+        "E": 90,
+        "OTRAS": 87
+      },
+      "puntos_desconocido": 108
+    },
+    "plazo": {
+      "tipo": "numerica",
+      "cortes": [
+        36.0
+      ],
+      "grupos": {},
+      "puntos": {
+        "<= 36": 111,
+        "> 36": 98
+      },
+      "puntos_desconocido": 108
+    },
+    "proposito": {
+      "tipo": "categorica",
+      "cortes": [],
+      "grupos": {
+        "debt_consolidation": "debt_consolidation",
+        "credit_card": "credit_card",
+        "other": "other",
+        "home_improvement": "home_improvement",
+        "major_purchase": "major_purchase",
+        "small_business": "small_business",
+        "car": "car",
+        "wedding": "wedding",
+        "educational": "OTRAS",
+        "medical": "OTRAS",
+        "moving": "OTRAS",
+        "house": "OTRAS",
+        "vacation": "OTRAS",
+        "renewable_energy": "OTRAS"
+      },
+      "puntos": {
+        "OTRAS": 103,
+        "car": 114,
+        "credit_card": 117,
+        "debt_consolidation": 108,
+        "home_improvement": 105,
+        "major_purchase": 115,
+        "other": 108,
+        "small_business": 88,
+        "wedding": 113
+      },
+      "puntos_desconocido": 108
+    },
+    "ingreso_anual": {
+      "tipo": "numerica",
+      "cortes": [
+        31002.0,
+        41000.0,
+        50000.0,
+        69996.0,
+        83000.0
+      ],
+      "grupos": {},
+      "puntos": {
+        "<= 31,002": 95,
+        "(31,002, 41,000]": 101,
+        "(41,000, 50,000]": 108,
+        "(50,000, 69,996]": 112,
+        "(69,996, 83,000]": 114,
+        "> 83,000": 114
+      },
+      "puntos_desconocido": 108
+    },
+    "estado": {
+      "tipo": "categorica",
+      "cortes": [],
+      "grupos": {
+        "CA": "CA",
+        "NY": "NY",
+        "FL": "FL",
+        "TX": "TX",
+        "NJ": "NJ",
+        "IL": "IL"
+      },
+      "puntos": {
+        "CA": 106,
+        "FL": 101,
+        "IL": 113,
+        "NJ": 106,
+        "NY": 114,
+        "TX": 113,
+        "Faltante": 108
+      },
+      "puntos_desconocido": 108
+    }
+  }
+}
