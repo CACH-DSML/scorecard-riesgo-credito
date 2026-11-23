@@ -4,7 +4,7 @@ Un scorecard de probabilidad de incumplimiento para préstamos de consumo, desar
 validado como lo haría el equipo de riesgos de un banco: tramos con WoE, regresión
 logística, puntos, validación fuera de tiempo, calibración, estabilidad y punto de corte.
 
-- **Dashboard:** ENLACE_DEMO
+- **Dashboard:** https://scorecard-riesgo-credito-7zghwzwtgbkkpfcipxupty.streamlit.app/
 - **Documento de desarrollo y validación:** [notebooks/01_desarrollo_y_validacion.ipynb](notebooks/01_desarrollo_y_validacion.ipynb)
 - **Model card:** [docs/model_card.md](docs/model_card.md)
 
